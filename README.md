@@ -2,9 +2,10 @@
 ~~利用github action实现~~立创 oshwhub社区自动登录+自动签到+自动领取三天及七天签到奖励脚本, 支持多用户签到
 
 
-# action体验不佳, 不再直接支持action, 请自行fork修改 
+# action体验不佳, 不再直接支持action, 请自行fo rk修改   
 # ~~建议还是部署在自己本地的树莓派或者装了python的op路由器之类的上面哈, action不太稳的样子~~
 
+ 
 ~~以下是action食用方式~~
 1. ~~右上角fork本仓库~~
 2. ~~点击Settings -> Secrets -> 点击绿色按钮 (如无绿色按钮说明已激活。直接到第三步。)~~
